@@ -1,0 +1,86 @@
+.title {
+  font-weight: 300;
+  font-size: 58px;
+  line-height: 64px;
+  letter-spacing: 5%;
+  vertical-align: middle;
+  margin-bottom: 88px;
+  width: 500px;
+}
+.delivery {
+  padding: 24px 19px;
+  border: 1px solid #ffe145;
+  background-color: transparent;
+}
+
+.infoof {
+  width: 110px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  vertical-align: bottom;
+}
+.buttons {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 24px;
+}
+.divcha {
+  padding: 30px 2px 30px 25px;
+  box-shadow: 0px 8px 40px 0px #00000014;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 46px;
+  margin-top: 150px;
+  position: absolute;
+  left: 0px;
+}
+.info {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  vertical-align: middle;
+  color: #3f4255;
+  width: 200px;
+}
+.information {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+.foodcourt {
+  position: relative;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.rukkola {
+  position: absolute;
+  bottom: 80px;
+  left: -150px;
+}
+.right {
+  position: relative;
+}
+.arrow {
+  position: absolute;
+  bottom: 20px;
+  right: 100px;
+}
+.fresh {
+  position: absolute;
+  right: 20px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  vertical-align: middle;
+}
